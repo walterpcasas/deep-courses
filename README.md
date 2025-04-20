@@ -12,7 +12,7 @@ Repositorio con cursos de Deep Learning de universidades.
 | [CS224n: Natural Language Processing with Deep Learning](#-cs224n-natural-language-processing-with-deep-learning) | Stanford | 2023                 | 
 | [CS236: Deep Generative Models](#-cs236-deep-generative-models) | Stanford  | 2023                 |
 | [CS336: Language Modeling from Scratch](#-cs336-language-modeling-from-scratch) | Stanford  | 2025                 |
-| [Deep Learning Specialization (Coursera)](#-deep-learning-specialization-coursera) | Coursera             | 2022                 |
+| [Deep Learning Specialization](#-deep-learning-specialization) | Coursera             | 2022                 |
 
 ---
 
@@ -27,7 +27,6 @@ Repositorio con cursos de Deep Learning de universidades.
   - [Slides PDF](http://cs231n.stanford.edu/syllabus.html)
   - [Notas del curso](http://cs231n.github.io/)
 
----
 
 ### 🔹 [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - **Universidad:** Stanford University
@@ -38,7 +37,6 @@ Repositorio con cursos de Deep Learning de universidades.
   - [Slides PDF](http://web.stanford.edu/class/cs224n/index.html#schedule)
   - [Assignments](http://web.stanford.edu/class/cs224n/assignments.html)
 
----
 
 ### 🔹 [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 - **Universidad:** Stanford University
@@ -51,7 +49,6 @@ Repositorio con cursos de Deep Learning de universidades.
   - [Proyecto del curso](https://deepgenerativemodels.github.io/project.html)
   - [Video de la primera clase (YouTube)](https://www.youtube.com/watch?v=XZ0PMRWXBEU)
 
----
 
 ### 🔹 [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/)
 - **Universidad:** Stanford University
@@ -66,7 +63,7 @@ Repositorio con cursos de Deep Learning de universidades.
 
 ## 🌐 Cursos Online Gratuitos
 
-### 🔹 [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
+### 🔹 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - **Plataforma:** Coursera
 - **Año de actualización:** 2022
 - **Temas:** Redes neuronales, CNNs, RNNs, optimización
